@@ -1,4 +1,4 @@
-part of '../../address_search_field.dart';
+part of 'package:address_search_field/address_search_field.dart';
 
 /// Widget based in an [AlertDialog] with a search bar and list of results,
 /// all in one box.
